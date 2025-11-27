@@ -1,9 +1,0 @@
-<!DOCTYPE codename-engine-character>
-<character scale="1.3" camx="-120" camy="300" icon="madv" color="#FFFFFF">
-	<anim name="idle" anim="vrage_idle" x="52" y="-200"/>
-	<anim name="singLEFT" anim="vrage_left" x="52" y="-200"/>
-	<anim name="singDOWN" anim="vrage_down" x="52" y="-200"/>
-	<anim name="singRIGHT" anim="vrage_right" x="52" y="-200"/>
-	<anim name="singUP" anim="vrage_up" x="52" y="-200"/>
-	<anim name="singRIGHT-alt" anim="vrage_pun" x="52" y="-200"/>
-</character>

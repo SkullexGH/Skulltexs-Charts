@@ -1,8 +1,0 @@
-<!DOCTYPE codename-engine-character>
-<character sprite="cancer" icon="cancermad" color="#8D33C8">
-	<anim name="idle" anim="cancer_idle"/>
-	<anim name="singDOWN" anim="cancer_down"/>
-	<anim name="singRIGHT" anim="cancer_right"/>
-	<anim name="singLEFT" anim="cancer_left"/>
-	<anim name="singUP" anim="cancer_up"/>
-</character>

@@ -1,8 +1,0 @@
-<!DOCTYPE codename-engine-character>
-<character scale="1.3" camx="-150" camy="300" icon="calmv" color="#FFFFFF">
-	<anim name="idle" anim="vMic_idle" x="50" y="-200"/>
-	<anim name="singLEFT" anim="vMic_left" x="50" y="-200"/>
-	<anim name="singDOWN" anim="vMic_down" x="50" y="-200"/>
-	<anim name="singRIGHT" anim="vMic_right" x="50" y="-200"/>
-	<anim name="singUP" anim="vMic_up" x="50" y="-200"/>
-</character>
