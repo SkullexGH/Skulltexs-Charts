@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="senpaiHD" icon="hdsenpaiMad" color="#FEA96F" holdTime="6.1">
+	<anim name="idle" anim="Angry Idle"/>
+	<anim name="singLEFT" anim="Angry Left pose" x="48" y="19"/>
+	<anim name="singDOWN" anim="Angry Down pose" x="-1" y="-39"/>
+	<anim name="singUP" anim="Angry Up pose" x="1" y="49"/>
+	<anim name="singRIGHT" anim="Angry Right pose" x="31" y="1"/>
+</character>

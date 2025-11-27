@@ -1,0 +1,14 @@
+<!DOCTYPE codename-engine-stage>
+<stage scrollspeed="1" name="AngryGirls" zoom="1">
+	<layer name="bg"/>
+	<layer name="mid"/>
+	<layer name="fg"/>
+	<layer name="chars"/>
+	<sprite scroll="1" sprite="madness" name="madness"/>
+	<sprite scroll="1" sprite="stagefront" alpha="0" scale="1.1" name="stagefront"/>
+	<sprite scroll="1" sprite="stage_light" alpha="0" scale="1.1" name="stagelight_left"/>
+	<sprite scroll="1.3" sprite="stagecurtains" type="none" alpha="0" scale="0.9" name="stagecurtains"/>
+	<gf x="957.606028760681" scroll="1" y="465.620686838262"/>
+	<dad x="639.1072254679" y="403.90848494514"/>
+	<bf x="1421.10729326834" y="428.3888577605"/>
+</stage>
