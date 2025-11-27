@@ -1,0 +1,15 @@
+{
+	"customValues": {},
+	"color": "#FFFFFF",
+	"opponentModeAllowed": false,
+	"icon": "madv",
+	"difficulties": [
+		"Chan"
+	],
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"displayName": "Sage",
+	"needsVoices": false,
+	"beatsPerMeasure": 4,
+	"bpm": 203
+}

@@ -1,0 +1,14 @@
+{
+	"opponentModeAllowed": true,
+	"icon": "cancer",
+	"difficulties": [
+		"Bonus"
+	],
+	"color": "#A500FF",
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"displayName": "Infinity",
+	"needsVoices": true,
+	"beatsPerMeasure": 4,
+	"bpm": 220
+}

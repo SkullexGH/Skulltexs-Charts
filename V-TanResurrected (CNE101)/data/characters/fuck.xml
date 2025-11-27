@@ -1,0 +1,4 @@
+<!DOCTYPE codename-engine-character>
+<character scale="1.3" camx="-160" camy="300" icon="madv" color="#FFFFFF">
+	<anim name="idle" anim="vrage_ffff" x="50" y="-200"/>
+</character>

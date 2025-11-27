@@ -1,0 +1,17 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="BoyFriend-v" scale="1.5" antialiasing="false" flipX="true" camx="225" camy="425" isPlayer="true" color="#0079D4">
+	<anim name="idle" anim="bf_idle" x="-74.5" y="-211.34"/>
+	<anim name="singDOWN" anim="bf_down0" x="-74.5" y="-211.34"/>
+	<anim name="singRIGHT" anim="bf_right0" x="-77.5" y="-211.34"/>
+	<anim name="singLEFT" anim="bf_left0" x="-70.5" y="-214.34"/>
+	<anim name="singUP" anim="bf_up0" x="-74.5" y="-211.34"/>
+	<anim name="bf_dodge" anim="bf_dodge" x="-87.5" y="-229.34"/>
+	<anim name="bf_dead_1" anim="bf_dead_1"/>
+	<anim name="bf_dead_2" anim="bf_dead_2"/>
+	<anim name="bf_dead_3" anim="bf_dead_3"/>
+	<anim name="bf_up_miss" anim="bf_up_miss" x="-74.5" y="-211.34"/>
+	<anim name="bf_up_intro" anim="bf_up_intro" x="-123.17" y="-306.67"/>
+	<anim name="bf_down_miss" anim="bf_down_miss" x="-74.5" y="-211.34"/>
+	<anim name="bf_left_miss" anim="bf_left_miss" x="-70.5" y="-214.34"/>
+	<anim name="bf_right_miss" anim="bf_right_miss" x="-77.5" y="-211.34"/>
+</character>

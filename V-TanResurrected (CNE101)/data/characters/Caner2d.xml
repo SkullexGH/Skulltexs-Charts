@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="cancer2D" scale="0.7" camx="-400" camy="-400" icon="cancermad" color="#8D33C8">
+	<anim name="idle" anim="cancer instance 1" x="421.29" y="402.29"/>
+	<anim name="singDOWN" anim="cancer_down instance 1" x="421.29" y="402.29"/>
+	<anim name="singRIGHT" anim="cancer_right instance 1" x="421.29" y="402.29"/>
+	<anim name="singLEFT" anim="cancer_left instance 1" x="421.29" y="402.29"/>
+	<anim name="singUP" anim="cancer_up instance 1" x="421.29" y="402.29"/>
+</character>
